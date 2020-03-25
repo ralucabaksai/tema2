@@ -58,15 +58,9 @@ body{
 }
 .left {
     width: 10%;
+    font-weight: bold;
+
   }
   .right {
     width: 90%;
   }
-.row:after {
-    content:"";
-    display:table;
-    clear:both;
-  }
-p.category {
-    font-weight: bold;
-}
